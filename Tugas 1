@@ -1,0 +1,53 @@
+DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>curiculum vitae`</title>
+        
+    </head>
+    <body style="baground-color: white"> 
+        <h2 style="text-align:center:">curiculum vitae</h2>
+        <hr>
+        <p align="center">saya mahasiswa nurul fikri I m 19 years old and i live in cibinong-bogor my brithday 20 january 2004 </p>
+        <h3 style="text-align:center;">biodata diri</h3>
+        <table border="1" cellpadding="9" align="center" width="700"
+    <tr>
+            <th width="200">data diri</th>
+            <th width="200">keterangan</th>
+            <th width="200">foto</th>
+        
+        </tr>
+        <tr>
+            <td>Rahma wati</td>
+            <td>menunggu masa depan</td>
+            <td rowspan="5"><img src=/storage/emulated/0/DCIM/Camera/20231009_172321.jpg width="100"</td></td
+            
+            </tr>
+            <tr>
+                <td>alamat</td>
+                
+                <td>jln.ksr dadi kusmayadi cibinong-bogor</td>
+             </tr>
+            <tr>
+                <td>agama</td>
+                <td>Islam</td></td>
+            
+            </tr>
+            <tr>
+                <td>hobby</td>
+                <td align="center"><ul>
+                    <li>hobby olahraga</li>
+                    </ul></td>
+                    
+                    
+                </tr>
+                <tr>
+                    <td>social media</td>
+                    <td><a href=https://instagram.com/rahmaachmt__?igshid=OGQ5ZDc2ODk2ZA==">https://instagram.com/rahmaachmt__?igshid=OGQ5ZDc2ODk2ZA </a></td>
+                </tr>
+                <table>
+                    <!--tutup table-->
+            
+        
+    </style>
+    </body>
